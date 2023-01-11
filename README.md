@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://hermes.digitalinnovation.one/tracks/59417914-c4ce-4bf8-b802-f1c1985a07fa.png" height="150" width="150"><br />Orange Tech + Backend </h1>
 
 #### Repositório reservado para o Bootcamp Orange Tech + Backend, uma parceria [ Inter ](https://www.bancointer.com.br/) e [ DIO ](https://dio.me/)<br>
+Proporcionou primeiro contato com as tecnologias abaixo:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50  width=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=50  width=50>
@@ -22,4 +23,10 @@
 [Salvando Musicas](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Salvando%20Musicas)<br>
 
 ### Desafio-Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-[Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio-Abstraindo%20um%20Bootcamp%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20em%20Java)
+[Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio-Abstraindo%20um%20Bootcamp%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20em%20Java)<br>
+
+### Desafio- Explorando Padroes de Projeto em Java
+[Explorando Padroes de Projeto em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio%20-%20Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java/padroes-deprojeto-napratica)<br>
+
+### Desafio - API REST Padroes Projetos Spring
+[API REST Padroes Projetos Spring](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/API%20REST%20Padroes%20Projetos%20Spring)<br>
